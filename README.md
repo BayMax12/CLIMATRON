@@ -1,5 +1,5 @@
 # CLIMATRON
-This was a project made by <url href="https://github.com/BayMax12"> Rajeshwar </url>, <href="https://github.com/Sachi95">Sachin Agarwal</href> and Saurabh Tanwar in Artificial Intelligence . 
+This was a project made by Rajeshwar(https://github.com/BayMax12) and Saurabh Tanwar in Artificial Intelligence . 
 An Expert System shell that monitors the indoor temperature and humidity of the room according to inputs given by users .
 
 - README
