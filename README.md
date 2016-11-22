@@ -1,4 +1,6 @@
 # CLIMATRON
+This was a project made by me , Sachin Agarwal and Saurabh Tanwar in Artificial Intelligence . 
+An Expert System shell that monitors the indoor temperature and humidity of the room according to inputs given by users .
 
 - README
 
